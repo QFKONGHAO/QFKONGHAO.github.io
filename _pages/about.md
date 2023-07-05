@@ -21,6 +21,18 @@ His research interests include mobile sensing and computing, AIoT security. The 
 
 Selected Publication 
 ======
+\[ACM IMWUT\] Yunzhong Chen, Jiadi Yu, Linghe Kong, **Hao Kong**, Yanmin Zhu，and Yi-Chao Chen, "RF-Mic: Live Voice Eavesdropping via Capturing Subtle Facial Speech Dynamics Leveraging RFID," Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT), 2023.
+
 \[ACM MobiSys\] Jiahong Xie, **Hao Kong**, Jiadi Yu, Yingying Chen, Linghe Kong, Yanmin Zhu, and Feilong Tang, "mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals," in Proceedings of ACM MobiSys 2023, Helsinki, Finland, 2023.
 
-\[ bbb \] abc
+\[ACM/IEEE ToN\] **Hao Kong**, Li Lu, Jiadi Yu，Yingying Chen, Xiangyu Xu, and Feng Lyu, "Towards Multi-User Authentication Using WiFi Signals," IEEE/ACM Transactions on Networking, 2023.
+
+\[ACM MobiSys\] **Hao Kong**, Xiangyu Xu, Jiadi Yu, Qilin Chen, Chenguang Ma, Yingying Chen, Yi-Chao Chen, and Linghe Kong, "m^3Track: mmWave-based Multi-User 3D Posture Tracking," in Proceedings of ACM MobiSys 2022, Portland, Oregon, USA, 2022.
+
+\[IEEE INFOCOM\] **Hao Kong**, Li Lu,Jiadi Yu, Yanmin Zhu，Feilong Tang, Yi-Chao Chen, Linghe Kong, and Feng Lyu, "Push the Limit of WiFi-based User Authentication towards Undefined Gestures," in Proceedings of IEEE InfoCom 2022, Virtual Conference, 2022.
+
+\[ACM MobiHoc\] **Hao Kong**, Li Lu, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feilong Tang, Yi-Chao Chen, "MultiAuth: Enable Multi-User Authentication with Single Commodity WiFi Device," in Proceedings of ACM MobiHoc 2021, Shanghai, China， 2021.
+
+\[IEEE TMC\] **Hao Kong**, Li Lu, Jiadi Yu, Yingying Chen, and Feilong Tang "Continuous Authentication through Finger Gesture Interaction for Smart Homes Using WiFi," IEEE Transactions on Mobile Computing, 2020.
+
+\[ACM MobiHoc\] **Hao Kong**, Li Lu, Jiadi Yu, Yingying Chen, Linghe Kong, and Minglu Li, "FingerPass: Finger Gesture-based Continuous User Authentication for Smart Homes Using Commodity WiFi, " in Proceedings of ACM MobiHoc 2019, Catania, Italy, 2019.
