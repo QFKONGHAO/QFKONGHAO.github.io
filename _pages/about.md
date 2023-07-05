@@ -19,8 +19,8 @@ Research Interest
 His research interests include mobile sensing and computing, AIoT security. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these techniques and applications.
 
 
-News 
+Selected Publication 
 ======
-\[ aaa \] abc 
+\[ACM MobiSys\] Jiahong Xie, **Hao Kong**, Jiadi Yu, Yingying Chen, Linghe Kong, Yanmin Zhu, and Feilong Tang, "mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals," in Proceedings of ACM MobiSys 2023, Helsinki, Finland, 2023.
 
 \[ bbb \] abc
