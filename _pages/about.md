@@ -12,7 +12,7 @@ I have successfully defended my doctor dissertation on May. 24th, 2023. I will j
 
 Brief Biography
 ======
-Hao Kong is currently an assistant professor of School of Computer Engineering and Science at Shanghai Univeristy. He received his Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University; and his B.E. degree in Computer Science and Technology from Ocean University of China. Previously, he has visited Broadband Communications Research (BBCR) Lab and Department of Electrical and Computer Engineering of University of Waterloo. He has published 10 peer-reviewed papers on premier international journals and conferences, including ACM MobiSys, ACM MobiHoc, IEEE INFOCOM, IEEE/ACM ToN, IEEE TMC, etc.
+Hao Kong is currently an assistant professor of School of Computer Engineering and Science at Shanghai Univeristy. He received his Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University; and his B.E. degree in Computer Science and Technology from Ocean University of China. Previously, he has visited Broadband Communications Research (BBCR) Lab and Department of Electrical and Computer Engineering of University of Waterloo, Canada. He has published 10 peer-reviewed papers on premier international journals and conferences, including ACM MobiSys, ACM MobiHoc, IEEE INFOCOM, IEEE/ACM ToN, IEEE TMC, etc.
 
 Research Interest
 ======
