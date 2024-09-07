@@ -23,7 +23,7 @@ Selected Publication
 ======
 \[IEEE ICDCS\] **Hao Kong**, Haoxin Lyu, Jiadi Yu, Linghe Kong, Junlin Yang, Yanzhi Ren, Hongbo Liu, Yi-Chao Chen, "mmHand: 3D Hand Pose Estimation Leveraging mmWave Signals", in IEEE 44th International Conference on Distributed Computing Systems (ICDCS), 2024.
 
-\[IEEE COMST\] **Hao Kong**, Cheng Huang, Jiadi Yu, Xuemin Shen, "A Survey of mmWave Radar-Based Sensing in Autonomous Vehicles, Smart Homes and Industry", IEEE Communications Surveys & Tutorials, 2024.
+\[IEEE COMST\] **Hao Kong**, Cheng Huang, Jiadi Yu, Xuemin Shen, "A Survey of mmWave Radar-Based Sensing in Autonomous Vehicles, Smart Homes and Industry", IEEE Communications Surveys & Tutorials, 2024. (IF 35.6)
 
 \[ACM IMWUT\] Yunzhong Chen, Jiadi Yu, Linghe Kong, **Hao Kong**, Yanmin Zhu，and Yi-Chao Chen, "RF-Mic: Live Voice Eavesdropping via Capturing Subtle Facial Speech Dynamics Leveraging RFID," in Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT), 2023.
 
