@@ -12,16 +12,20 @@ I have successfully defended my doctor dissertation on May. 24th, 2023. I will j
 
 Brief Biography
 ======
-Hao Kong is currently an assistant professor of School of Computer Engineering and Science at Shanghai Univeristy. He received his Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University; and his B.E. degree in Computer Science and Technology from Ocean University of China. Previously, he has visited Broadband Communications Research (BBCR) Lab and Department of Electrical and Computer Engineering of University of Waterloo, Canada. He has published 10 peer-reviewed papers on premier international journals and conferences, including ACM MobiSys, ACM MobiHoc, IEEE INFOCOM, IEEE/ACM ToN, IEEE TMC, etc.
+Hao Kong is currently an assistant professor of School of Computer Engineering and Science at Shanghai Univeristy. He received his Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University; and his B.E. degree in Computer Science and Technology from Ocean University of China. Previously, he has visited Broadband Communications Research (BBCR) Lab and Department of Electrical and Computer Engineering of University of Waterloo, Canada. He has published 10 peer-reviewed papers on premier international journals and conferences, including ACM MobiSys, ACM MobiHoc, IEEE INFOCOM, IEEE/ACM ToN, IEEE TMC, IEEE COMST etc.
 
 Research Interest
 ======
-His research interests include mobile sensing and computing, AIoT security. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these techniques and applications.
+His research interests include wireless sensing and mobile robotics sensing. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications.
 
 
 Selected Publication 
 ======
-\[ACM IMWUT\] Yunzhong Chen, Jiadi Yu, Linghe Kong, **Hao Kong**, Yanmin Zhu，and Yi-Chao Chen, "RF-Mic: Live Voice Eavesdropping via Capturing Subtle Facial Speech Dynamics Leveraging RFID," Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT), 2023.
+\[IEEE ICDCS\] **Hao Kong**, Haoxin Lyu, Jiadi Yu, Linghe Kong, Junlin Yang, Yanzhi Ren, Hongbo Liu, Yi-Chao Chen, "mmHand: 3D Hand Pose Estimation Leveraging mmWave Signals", in IEEE 44th International Conference on Distributed Computing Systems (ICDCS), 2024.
+
+\[IEEE COMST\] **Hao Kong**, Cheng Huang, Jiadi Yu, Xuemin Shen, "A Survey of mmWave Radar-Based Sensing in Autonomous Vehicles, Smart Homes and Industry", IEEE Communications Surveys & Tutorials, 2024.
+
+\[ACM IMWUT\] Yunzhong Chen, Jiadi Yu, Linghe Kong, **Hao Kong**, Yanmin Zhu，and Yi-Chao Chen, "RF-Mic: Live Voice Eavesdropping via Capturing Subtle Facial Speech Dynamics Leveraging RFID," in Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT), 2023.
 
 \[ACM MobiSys\] Jiahong Xie, **Hao Kong**, Jiadi Yu, Yingying Chen, Linghe Kong, Yanmin Zhu, and Feilong Tang, "mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals," in Proceedings of ACM MobiSys 2023, Helsinki, Finland, 2023.
 
